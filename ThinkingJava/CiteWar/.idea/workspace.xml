@@ -1,60 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e36c27d-add3-4591-b602-f64f5aa03ef5" name="Default Changelist" comment="" />
+    <list default="true" id="3b7be59a-86ca-4d37-9363-faa7cf1a6727" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DotCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DotComBust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleDotCom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DotCom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DotCom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDotComGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDotComGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDotComTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleDotComTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1V1c0g7t3CEX90Kq3x6oIhNFuPZ" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1WyHV5X6lacciXXwB7I4d5Re2HU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunManager">
+    <configuration name="DotComBust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DotComBust" />
+      <module name="CiteWar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="Application.DotComBust" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4e36c27d-add3-4591-b602-f64f5aa03ef5" name="Default Changelist" comment="" />
-      <created>1576423823821</created>
+      <changelist id="3b7be59a-86ca-4d37-9363-faa7cf1a6727" name="Default Changelist" comment="" />
+      <created>1580114934897</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576423823821</updated>
+      <updated>1580114934897</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1468" y="288" width="811" height="669" key="#Project_Structure" timestamp="1576428740782">
-      <screen x="0" y="23" width="2560" height="1353" />
-    </state>
-    <state x="1468" y="288" width="811" height="669" key="#Project_Structure/0.23.2560.1353@0.23.2560.1353" timestamp="1576428740782" />
-    <state x="1370" y="237" key="SettingsEditor" timestamp="1576686023379">
-      <screen x="0" y="23" width="2560" height="1353" />
-    </state>
-    <state x="1370" y="237" key="SettingsEditor/0.23.2560.1353@0.23.2560.1353" timestamp="1576686023379" />
   </component>
 </project>
